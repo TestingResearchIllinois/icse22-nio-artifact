@@ -1,0 +1,89 @@
+================ Generating Table 1
+M1 & activiti/activiti - activiti-engine & 2 & 2 & 2 & 15729 & 4694 & 604 & 3.4 & 26.0 \\
+M2 & activiti/activiti - activiti-spring-boot-starter & 7 & 6 & 6 & 726 & 369 & 229 & 2.0 & 3.2 \\
+M9 & apache/dubbo - dubbo-cluster & 3 & 3 & 3 & 927 & 450 & 221 & 2.1 & 4.2 \\
+M10 & apache/dubbo - dubbo-common & 6 & 5 & 5 & 3341 & 751 & 292 & 4.4 & 11.4 \\
+M11 & apache/dubbo - dubbo-config-api & 2 & 2 & 1 & 2184 & 411 & 215 & 5.3 & 10.2 \\
+M12 & apache/dubbo - dubbo-monitor-default & 1 & 1 & 1 & 258 & 249 & 255 & 1.0 & 1.0 \\
+M13 & apache/dubbo - dubbo-remoting-netty & 1 & 1 & 1 & 374 & 356 & 310 & 1.1 & 1.2 \\
+M14 & apache/dubbo - dubbo-rpc-api & 4 & 4 & 4 & 577 & 382 & 236 & 1.5 & 2.4 \\
+M15 & apache/dubbo - dubbo-rpc-rest & 2 & 2 & 2 & 315 & 256 & 216 & 1.2 & 1.5 \\
+M3 & apache/hadoop - hadoop-hdfs-httpfs & 3 & 3 & 2 & 2981 & 904 & 596 & 3.3 & 5.0 \\
+M4 & apache/hadoop - hadoop-hdfs-nfs & 1 & 0 & 0 & 1290 & 880 & 749 & 1.5 & 1.7 \\
+M5 & apache/hadoop - hadoop-mapreduce-client-app & 3 & 3 & 3 & 6087 & 2258 & 1400 & 2.7 & 4.3 \\
+M6 & apache/hadoop - hadoop-mapreduce-client-core & 3 & 1 & 1 & 3689 & 1617 & 841 & 2.3 & 4.4 \\
+M7 & apache/hadoop - hadoop-mapreduce-client-jobclient & 5 & 5 & 5 & 29354 & 19702 & 7200 & 1.5 & 4.1 \\
+M8 & apache/hbase - hbase-server & 13 & 13 & 13 & 180778 & 55207 & 10320 & 3.3 & 17.5 \\
+M16 & eclipse-ee4j/tyrus - non-deployable & 1 & 1 & 1 & 433 & 201 & 112 & 2.2 & 3.9 \\
+M17 & elasticjob/elastic-job-lite - elastic-job-lite-core & 4 & 4 & 4 & 2890 & 964 & 188 & 3.0 & 15.4 \\
+M18 & looly/hutool - hutool-core & 1 & 1 & 1 & 2967 & 651 & 85 & 4.6 & 34.9 \\
+M19 & orbit/orbit - actor-tests & 1 & 1 & 1 & 8518 & 752 & 278 & 11.3 & 30.6 \\
+M20 & pholser/junit-quickcheck - core & 122 & 122 & 122 & 2687 & 671 & 101 & 4.0 & 26.6 \\
+M21 & pholser/junit-quickcheck - generators & 4 & 4 & 4 & 6255 & 2294 & 156 & 2.7 & 40.1 \\
+M22 & querydsl/querydsl - querydsl-hibernate-search & 3 & 0 & 0 & 386 & 372 & 316 & 1.0 & 1.2 \\
+M23 & spring-projects/spring-boot - spring-boot & 2 & 2 & 2 & 148990 & 12299 & 384 & 12.1 & 388.0 \\
+M24 & spring-projects/spring-boot - spring-boot-actuator & 12 & 11 & 11 & 21821 & 5416 & 368 & 4.0 & 59.3 \\
+M25 & spring-projects/spring-boot - spring-boot-actuator-autoconfigure & 2 & 2 & 2 & 21866 & 9357 & 429 & 2.3 & 51.0 \\
+M26 & spring-projects/spring-boot - spring-boot-test & 1 & 1 & 1 & 23505 & 5623 & 242 & 4.2 & 97.1 \\
+M27 & spring-projects/spring-boot - spring-boot-test-autoconfigure & 4 & 4 & 4 & 6468 & 4358 & 538 & 1.5 & 12.0 \\
+M28 & spring-projects/spring-ws - spring-ws-core & 1 & 1 & 1 & 4529 & 1247 & 223 & 3.6 & 20.3 \\
+M29 & undertow-io/undertow - servlet & 1 & 0 & 0 & 2289 & 1133 & 297 & 2.0 & 7.7 \\
+M30 & vmware/admiral - kubernetes & 1 & 1 & 1 & 684 & 308 & 182 & 2.2 & 3.8 \\
+M31 & vmware/admiral - common & 4 & 4 & 4 & 668 & 285 & 142 & 2.3 & 4.7 \\
+M32 & vmware/admiral - request & 1 & 0 & 0 & 3995 & 1833 & 995 & 2.2 & 4.0 \\
+M33 & wildfly/wildfly - server-integration & 1 & 1 & 1 & 690 & 457 & 271 & 1.5 & 2.5 \\
+M34 & zalando/riptide - riptide-spring-boot-starter & 1 & 1 & 1 & 494 & 321 & 134 & 1.5 & 3.7 \\
+================ Generating Table 2
+M1 & 2 & 0 & 2 & 2 & 0 \\
+M2 & 7 & 7 & N/A & 0 & 0 \\
+M3 & 3 & 0 & 3 & 0 & 1 \\
+M4 & 1 & 0 & 1 & 1 & 0 \\
+M5 & 3 & 0 & 3 & 1 & 0 \\
+M6 & 3 & 0 & 3 & 1 & 0 \\
+M7 & 5 & 0 & 5 & 1 & 0 \\
+M8 & 13 & 3 & 7 & 1 & 0 \\
+M9 & 3 & 0 & 2 & 2 & 0 \\
+M10 & 6 & 0 & 6 & 6 & 0 \\
+M11 & 2 & 1 & 1 & 1 & 0 \\
+M12 & 1 & 0 & 0 & 0 & 0 \\
+M13 & 1 & 1 & N/A & 0 & 0 \\
+M14 & 4 & 0 & 4 & 4 & 0 \\
+M15 & 2 & 2 & N/A & 0 & 0 \\
+M16 & 1 & 0 & 1 & 1 & 0 \\
+M17 & 4 & 0 & 4 & 4 & 0 \\
+M18 & 1 & 1 & N/A & 0 & 0 \\
+M19 & 1 & 1 & N/A & 0 & 0 \\
+M20 & 122 & 2 & 120 & 120 & 0 \\
+M21 & 4 & 0 & 4 & 4 & 0 \\
+M22 & 3 & 0 & 3 & 3 & 0 \\
+M23 & 2 & 1 & 1 & 0 & 0 \\
+M24 & 12 & 0 & 2 & 0 & 0 \\
+M25 & 2 & 0 & 2 & 0 & 0 \\
+M26 & 1 & 0 & 1 & 0 & 1 \\
+M27 & 4 & 1 & 3 & 0 & 3 \\
+M28 & 1 & 0 & 1 & 0 & 0 \\
+M29 & 1 & 0 & 1 & 0 & 0 \\
+M30 & 1 & 0 & 1 & 0 & 0 \\
+M31 & 4 & 0 & 3 & 0 & 0 \\
+M32 & 1 & 0 & 1 & 0 & 0 \\
+M33 & 1 & 0 & 0 & 0 & 0 \\
+M34 & 1 & 0 & 1 & 1 & 0 \\
+\hline
+\textbf{Total} & \textbf{223} & \textbf{20} & \textbf{186} & \textbf{153} & \textbf{5}
+34 modules, 27 have at least one fix, 5 not available
+======== Generating Figure 6 all tests Venn diagram
+only nio : 195
+ni&p - v : 7
+ni&p&v   : 8
+ni&v - p : 13
+only p   : 489
+p&v - nio: 68
+only v   : 73
+======== Generating Figure 6 fixed tests Venn diagram
+only nio : 166
+ni&p - v : 7
+ni&p&v   : 1
+ni&v - p : 12
+only p   : 489
+p&v - nio: 75
+only v   : 74
